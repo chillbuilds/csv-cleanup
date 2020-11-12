@@ -1,0 +1,19 @@
+{
+  "name": "csv-cleanup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "e.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/webhook": "^5.0.3",
+    "array-uniq": "^2.1.0",
+    "fs": "0.0.1-security",
+    "get-unique-permutations": "^1.0.0",
+    "inquirer": "^7.2.0"
+  }
+}
